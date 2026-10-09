@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hamzasand/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hamzasand/LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/hamzasand/LeetCode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hamzasand/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hamzasand/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hamzasand/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/hamzasand/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/hamzasand/LeetCode/tree/master/1768-merge-strings-alternately) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hamzasand/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/hamzasand/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
