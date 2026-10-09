@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hamzasand/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1768-merge-strings-alternately](https://github.com/hamzasand/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hamzasand/LeetCode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/hamzasand/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
