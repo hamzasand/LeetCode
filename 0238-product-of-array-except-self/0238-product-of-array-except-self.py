@@ -1,22 +1,17 @@
-
 class Solution:
-    def productExceptSelf(self, nums: list[int]) -> list[int]:
-        n = len(nums)
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        n= len(nums)
 
-        left = [1] * n
-        right = [1] * n
-        answer = [1] * n
+        prefix = [1]*n
+        suffix = [1]*n
 
-        # Calculate products on the left
-        for i in range(1, n):
-            left[i] = left[i - 1] * nums[i - 1]
-
-        # Calculate products on the right
-        for i in range(n - 2, -1, -1):
-            right[i] = right[i + 1] * nums[i + 1]
-
-        # Combine left and right products
-        for i in range(n):
-            answer[i] = left[i] * right[i]
+        for i in range (1,n):
+            prefix[i] = prefix[i-1]*nums[i-1]
+        
+        for i in range (n-2,-1,-1):
+            suffix[i] = suffix[i+1]*nums[i+1]
+        
+        answer = [prefix[i]*suffix[i] for i in range(n)]
 
         return answer
+        
