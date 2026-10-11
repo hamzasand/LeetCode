@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hamzasand/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0238-product-of-array-except-self](https://github.com/hamzasand/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/hamzasand/LeetCode/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hamzasand/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## String
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/hamzasand/LeetCode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/hamzasand/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
